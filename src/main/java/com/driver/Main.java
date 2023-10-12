@@ -7,6 +7,6 @@ public class Main {
         //obj.name="testing";
 
         obj.setName("testing");
-       System.out.println(obj.getName()) ;
+       String str =obj.getName() ;
     }
 }
